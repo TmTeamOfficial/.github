@@ -2,6 +2,10 @@
 
 Official GitHub account of TmTeam company (tm-team.ru)
 
+## Our mission
+
+We build accessible software that helps people adapt to changing digital environments, reducing complexity and enabling smoother, more independent experiences.
+
 ## Our projects
 
 - FindTM—the program for the Windows operating system written in Python that was parsing the search for you and showed only sites (links) that would open according to your internet connection 
